@@ -1,6 +1,6 @@
-# CRUD-API
+# CRUD API
 
-Smple CRUD api using Spring Boot framework and MySQL database.
+Smple CRUD api using Java Spring Boot framework and MySQL database.
 
 ## Dependencies.
 > lombok.\
