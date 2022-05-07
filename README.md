@@ -9,8 +9,8 @@ Smple CRUD api using Spring Boot framework and MySQL database.
 > spring data jpa.
 
 ## Endpoints (http)
-> Get request ```api/v1/department [GET]```
+> GET request ```api/v1/department```
 
-> api/v1/department [POST]
+> POST request ```api/v1/department```
 
-> api/v1/department/{departmentID} [DELETE]
+> DELETE request ```api/v1/department/{departmentID}```
