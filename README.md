@@ -9,7 +9,7 @@ Smple CRUD api using Spring Boot framework and MySQL database.
 > spring data jpa.
 
 ## Endpoints (http)
-> api/v1/department [GET]
+> Get request ```api/v1/department [GET]```
 
 > api/v1/department [POST]
 
